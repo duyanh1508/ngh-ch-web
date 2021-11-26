@@ -1,0 +1,98 @@
+
+    h1 {
+        text-align: center;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 2vw;
+        width: 100%;
+        height: 20%;
+        }
+    #div1{
+        text-align: center;
+        background-color: rgb(61, 132, 224);
+
+        }
+    #div2{
+        font-family:'Times New Roman', Times, serif ;
+        margin-bottom: 10px;
+        }
+    #divmail{
+        margin-top: 1px;
+        text-align: left;
+        margin-bottom: 10px;
+        }
+    #divlienhe{
+        height: 200px;
+        width: 200px;
+    }
+    .maps-wrapper {
+        position: relative;
+        padding-bottom: 90%; 
+        height: 100% ;
+        width: 90%;
+        max-width: 100%;
+        overflow: hidden;
+    }
+        
+    .calendar-container iframe {
+        float: right;
+        position: absolute;
+        top:0;
+        left: 0;
+        width: 50%;
+        height: 100%;
+    }
+    #contact us{
+        font-family: 'Courier New', Courier, monospace
+    }
+    #dienthoai{
+        margin-top: 1%;
+        height: 60px;
+        width: 50px;
+        float: left;
+    }
+    #sodienthoai{
+        text-align: left;
+        margin-top: 100px;
+        margin-left: 70px;
+    }
+    #mail{
+        clear: left;
+        height: 60px;
+        width: 50px;
+        float: left;
+    }
+    #tenmail{
+        text-align: left;
+        margin-left: 70px;
+    }
+    #bando{
+        max-width: 100% ;
+        float: right;
+        margin-top: 0px;
+        margin-bottom: 100px;
+        width: 100%;
+    }
+    #fb{
+        float: left;
+        clear: left;
+        height: 60px;
+        width: 50px;
+        margin-left: 50px;
+        margin-top: 50px;
+    }
+    #github{
+        clear: left;
+        height: 60px;
+        width: 60px;
+        margin-left:40px;
+        margin-top: 50px;
+    }
+    /* Mui ten lên dau trang */
+    #backtotop{
+        width: 30px;
+        height: 30px;
+        border: solid 5px blue;
+        border-radius: 5px;
+        background-color: yellow;
+    }
+    
